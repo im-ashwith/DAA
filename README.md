@@ -14,6 +14,9 @@ InsertionSort---timeComplexity--->>O(n^2)---WorstCase
 
 MergeSort---timeComplexity--->>O(n log n)---WorstCase
 
+![image alt](https://github.com/im-ashwith/DAA/blob/cddbe58b1e6e41f3289e2330934a46f4e3ba1992/Outputs/MergeSort.png)
+
+
 QuickSort---timeComplexity--->>O(n^2)---WorstCase
 
 
