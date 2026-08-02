@@ -19,6 +19,9 @@ MergeSort---timeComplexity--->>O(n log n)---WorstCase
 
 QuickSort---timeComplexity--->>O(n^2)---WorstCase
 
+![image alt](https://github.com/im-ashwith/DAA/blob/8dde2fab99e25b66f9b4c81922e719ebf7b29999/Outputs/QuickSort.png)
+
+
 
 LinearSearch---timeComplexity--->>O(n)---WorstCase
 
