@@ -7,8 +7,10 @@ SelectionSort---timeComplexity--->>O(n^2)---WorstCase
 ![image alt](https://github.com/im-ashwith/DAA/blob/8e83146732f06498e254861a84c3efd2a8855d4f/SelectionSort.png)
 
 
-
 InsertionSort---timeComplexity--->>O(n^2)---WorstCase
+
+![image alt](https://github.com/im-ashwith/DAA/blob/b7eaabaa0aa17193e04ec5077fe6cba6d2ccc4f5/Outputs/InsertionSort.png)
+
 
 MergeSort---timeComplexity--->>O(n log n)---WorstCase
 
