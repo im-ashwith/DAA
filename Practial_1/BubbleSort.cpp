@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
     int n, i;
+    cout<<"----BubbleSort----"<<endl;
     cout << "Enter the number of elements: ";
     cin >> n;
     int arr[n];
@@ -17,7 +18,6 @@ int main()
         {
             if(arr[j] > arr[j+1])
             {
-                // Swap arr[j] and arr[j+1]
                 int temp = arr[j];
                 arr[j] = arr[j+1];
                 arr[j+1] = temp;
@@ -29,6 +29,5 @@ int main()
     {
         cout << arr[i] << " ";
     }
-    cout << endl;
     return 0;
 }
