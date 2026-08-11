@@ -28,6 +28,10 @@ LinearSearch---timeComplexity--->>O(n)---WorstCase
 ![image alt](https://github.com/im-ashwith/DAA/blob/560e2f1f72087fd546da8734e0f356f45a096466/Outputs/LinearSearch.png)
 
 
+Max_HeapSort---timeComplexity--->>O(n log n)----All cases
+
+
+
 BinarySearch---timeComplexity--->>O(log n)---WorstCase
 
 ![image alt](https://github.com/im-ashwith/DAA/blob/d49ff7de0ac127cf06c476405fba84206a1bbb1b/Outputs/BinarySearch.png)
