@@ -36,6 +36,7 @@ BinarySearch---timeComplexity--->>O(log n)---WorstCase
 
 
 Max_HeapSort---timeComplexity--->>o(n log n)---All cases
+
 ![image alt](https://github.com/im-ashwith/DAA/blob/b9645a37b9150b2cf99fbf9fc4113c9275fefedf/Practial_3/HeapSort_P4.png)
 
 
